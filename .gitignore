@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+# Archivos generados durante la ejecución
+*.log
+*.lock
+*.sqlite
+package-lock.json
+# Entorno de desarrollo
+.env
+.DS_Store
+.vscode/
